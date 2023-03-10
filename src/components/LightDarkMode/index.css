@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+.container {
+  margin: 100px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+
+.Light-Mode {
+  background-color: #ffffff;
+}
+
+.Dark-Mode {
+  background-color: black;
+}
+
+.Light-text {
+  color: #ffffff;
+}
+
+.dark-text {
+  color: black;
+}
